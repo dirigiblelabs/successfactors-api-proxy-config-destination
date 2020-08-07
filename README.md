@@ -6,6 +6,7 @@
 ## Overview
 
 SuccessFactors API Proxy - Config Destination
+![destination](https://github.com/dirigiblelabs/successfactors-api-proxy-config-destination/blob/master/docs/destination.png)
 
 ## License
 
