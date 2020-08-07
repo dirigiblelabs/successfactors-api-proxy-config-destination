@@ -7,12 +7,12 @@
 
 SuccessFactors API Proxy - Config Destination
 
-- URL: <the-successfactors-api-url>
-- Authentication: OAuth2SAMLBearerAssertion
-- Audience: <the-successfactors-oauth-client-client-key>
-- Client Key: <the-successfactors-oauth-client-certificate-private-key>
-- Token Service URL: <the-successfactors-api-url>/oauth/token
-- companyId: <the-successfactors-company-id>
+- URL: `<the-successfactors-api-url>`
+- Authentication: `OAuth2SAMLBearerAssertion`
+- Audience: `<the-successfactors-oauth-client-client-key>`
+- Client Key: `<the-successfactors-oauth-client-certificate-private-key>`
+- Token Service URL: `<the-successfactors-api-url>/oauth/token`
+- companyId: `<the-successfactors-company-id>`
 
 ![destination](https://github.com/dirigiblelabs/successfactors-api-proxy-config-destination/blob/master/docs/destination.png)
 
